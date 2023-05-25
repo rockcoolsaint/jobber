@@ -1,14 +1,18 @@
-# Expo Router Example
+# Installation instructions
+clone the repo and `cd` into cloned directory
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+create a `.env` file and add the following:
+```
+RAPID_API_KEY=Your-API-Key
+```
+You can fetch your API Key from the link below
+https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch/
 
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
+## run the following in the terminal
+```
+npm start
 ```
 
-## 📝 Notes
+Then launch your mobile expo app on your android device and scan the QR code to launch the app
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+If you having difficulty, don't hesitate to send me a mail at rockcoolsaint@gmail.com
